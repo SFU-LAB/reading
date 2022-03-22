@@ -11,9 +11,10 @@ Please maintain a list below:
 
 Please put the PDF files in the `slides` folder, named after the authors and year of publication. Make sure to use underscores instead of whitespace in the filename for easier references.
 
-If the same author has multiple publications in the same year, add an additional serial after the year, like
+If the same author has multiple publications in the same year, add an additional serial after the year. Here's some examples.
 
-  Hirsh_et_al_2018.pdf
-  Hirsh_et_al_2018_2.pdf
+    Chen_et_Manning_2013.pdf
+    Hirsh_et_al_2018.pdf
+    Hirsh_et_al_2018_2.pdf
 
 Please also include the date of the presentation and paper title in this readme file. A DOI url to the paper would also be great.
