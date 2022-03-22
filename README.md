@@ -6,7 +6,7 @@ Please maintain a list below:
 
 2022-03-22 [Stuff here]
 
-2022-03-22 [Scarborough and Zallou, 2022. Out of sight, out of mind: The influence of communicative load and phonological neighborhood density on phonetic variation in real listener-directed speech](http://doi: 10.1121/10.0009233)[[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/scarborough%26zellou_2022.pdf]
+2022-03-22 [[http://doi: 10.1121/10.0009233](url)
 
 2022-03-15 [Hirsh et al., 2018, A cross-brain neural mechanism for human-to-human verbal communication](https://doi.org/10.1093/scan/nsy070) [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/Hirsh_et_al_2018.pdf)]
 
