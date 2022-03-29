@@ -4,6 +4,8 @@ Here you'll find LAB Lab's presentation slides for research papers.
 
 Please maintain a list below:
 
+2022-03-29 [Gilbert et al., 2014, Recognition memory in noise for speech of varying intelligibility](https://doi.org/10.1121/1.4838975) [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/Gilbert_et_al_2014.pdf)]
+
 2022-03-22 [Stuff here]
 
 2022-03-22 [Stuff here]
