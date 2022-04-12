@@ -4,7 +4,7 @@ Here you'll find LAB Lab's presentation slides for research papers.
 
 Please maintain a list below:
 
-2022-04-12 [Teoh, Ahmed and Lalor, 2021, Attention differentially affects acoustic and phonetic feature encoding in a multispeaker environment](https://doi.org/10.1523/JNEUROSCI.1455-20.2021) [[Slide](
+2022-04-12 [Teoh, Ahmed and Lalor, 2021, Attention differentially affects acoustic and phonetic feature encoding in a multispeaker environment](https://doi.org/10.1523/JNEUROSCI.1455-20.2021) [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/Teoh_Ahmed_Lalor_2021.pdf)] 
 
 2022-04-05 [Offrede et al., 2021, Multi-speaker experimental designs: Methodological Considerations](https://doi.org/10.1111/lnc3.12443) [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/Offrede_et_al_2021.pdf)]
 
