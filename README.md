@@ -6,6 +6,8 @@ Please maintain a list below:
 
 2022-06-23 [Andreeva et al., 2021, Phonetic convergence evaluation based on fundamental frequency variability](https://www.researchgate.net/publication/350517517) [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/Andreeva_et_al_2021.pdf)]
 
+2022-06-23 [Lewandowski and Jilka, 2021, Phonetic convergence, language talent, personality and attention](https://doi.org/10.3389/fcomm.2019.00018) [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/Lewandowski_and_Jilka_2019.pdf)]
+
 2022-04-12 [Teoh, Ahmed and Lalor, 2021, Attention differentially affects acoustic and phonetic feature encoding in a multispeaker environment](https://doi.org/10.1523/JNEUROSCI.1455-20.2021) [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/Teoh_Ahmed_Lalor_2021.pdf)] 
 
 2022-04-05 [Offrede et al., 2021, Multi-speaker experimental designs: Methodological Considerations](https://doi.org/10.1111/lnc3.12443) [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/Offrede_et_al_2021.pdf)]
