@@ -4,6 +4,8 @@ Here you'll find LAB Lab's presentation slides for research papers.
 
 Please maintain a list below:
 
+2022-07-28 [Zhang_2018](https://github.com/SFU-LAB/reading/blob/main/slides/Zhang_2018.pdf), [Chor_2018](https://github.com/SFU-LAB/reading/blob/main/slides/Chor_2018.pdf), and [Lin_et_al_2021](https://github.com/SFU-LAB/reading/blob/main/slides/Lin_et_al_2021.pdf). [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/canto_conv_task.pdf)]
+
 2022-06-30 [Dias et Rosenblum, 2011, Visual influences on interactive speech alignment](https://journals.sagepub.com/doi/10.1068/p7071) [[Slide](https://github.com/SFU-LAB/reading/raw/main/slides/Dias_et_Rosenblum_2011.pdf)]
 
 2022-06-23 [Andreeva et al., 2021, Phonetic convergence evaluation based on fundamental frequency variability](https://www.researchgate.net/publication/350517517) [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/Andreeva_et_al_2021.pdf)]
