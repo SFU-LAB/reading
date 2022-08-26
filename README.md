@@ -4,6 +4,8 @@ Here you'll find LAB Lab's presentation slides for research papers.
 
 Please maintain a list below:
 
+2022-08-25 [Jetic's Escape Room and Chinese Whisper games slides](https://github.com/SFU-LAB/reading/blob/main/slides/Conv_task_250822.pdf)
+
 2022-08-11 [Janitta and Samantha's Guess Who slides](https://github.com/SFU-LAB/reading/blob/main/slides/LABLab%20Stimuli%20%26%20Tasks%20(Summer%202022).pdf), and [Ivan and Samuel's Escape Simulator slides](https://github.com/SFU-LAB/reading/blob/main/slides/canto_conv_task_escape_sim.pdf)
 
 2022-07-28 [Zhang_2018](https://github.com/SFU-LAB/reading/blob/main/slides/Zhang_2018.pdf), [Chor_2018](https://github.com/SFU-LAB/reading/blob/main/slides/Chor_2018.pdf), and [Lin_et_al_2021](https://github.com/SFU-LAB/reading/blob/main/slides/Lin_et_al_2021.pdf). [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/canto_conv_task.pdf)]
