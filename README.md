@@ -26,7 +26,7 @@ Please maintain a list below:
 
 2022-03-29 [Gilbert et al., 2014, Recognition memory in noise for speech of varying intelligibility](https://doi.org/10.1121/1.4838975) [[Slide](https://github.com/SFU-LAB/reading/blob/main/slides/Gilbert_et_al_2014.pdf)]
 
-2022-03-22 [Stuff here]
+2022-03-22 [Pardo 2006, 2013, 2017](https://github.com/SFU-LAB/reading/blob/2817d636a04d706ee1e4279ed29ece5f3bba6f38/slides/Pardo_2006_2013_2017.pdf)
 
 2022-03-22 [Stuff here]
 
